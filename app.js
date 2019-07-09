@@ -61,7 +61,7 @@ app.use((req, res, next) => {
 
 app.use(auth);
 
-app.put('/post=image', (req, res, next) => {
+app.put('/post-image', (req, res, next) => {
     if (!req.isAuth) {
         throw new Error('Not authenticated')
     }
