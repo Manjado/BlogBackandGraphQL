@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0a77fc6-0d3b-45bf-a331-c4ee34b2cc7b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/util/file.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change beforePath="$PROJECT_DIR$/graphql/resolvers.js" afterPath="$PROJECT_DIR$/graphql/resolvers.js" />
       <change beforePath="$PROJECT_DIR$/graphql/schema.js" afterPath="$PROJECT_DIR$/graphql/schema.js" />
-      <change beforePath="$PROJECT_DIR$/images/28277ab4-0f5c-4ab1-bb60-f065f2bc41e4-monky.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/582edeeb-64bd-448d-a31a-af4e264b6105-zoom.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/9e77cf21-0dea-4000-b044-74e19eeb76b4-monky.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/f5352bb8-bb40-4ad4-b105-7d28d56a4a14-monky.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/ff7f77cd-a325-45e3-8547-d7c55528cd87-monky.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +18,8 @@
       <file leaf-file-name="resolvers.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/graphql/resolvers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            <state relative-caret-position="608">
+              <caret line="262" column="8" lean-forward="false" selection-start-line="262" selection-start-column="8" selection-end-line="262" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -85,8 +78,8 @@
       <file leaf-file-name="schema.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/graphql/schema.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="54" column="36" lean-forward="false" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+            <state relative-caret-position="319">
+              <caret line="56" column="20" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -112,9 +105,9 @@
       <list>
         <option value="$PROJECT_DIR$/middleware/auth.js" />
         <option value="$PROJECT_DIR$/controllers/feed.js" />
-        <option value="$PROJECT_DIR$/graphql/schema.js" />
         <option value="$PROJECT_DIR$/util/file.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/graphql/schema.js" />
         <option value="$PROJECT_DIR$/graphql/resolvers.js" />
       </list>
     </option>
@@ -137,10 +130,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1210" />
-    <option name="y" value="167" />
-    <option name="width" value="728" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1151" />
+    <option name="y" value="51" />
+    <option name="width" value="722" />
     <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -244,15 +237,15 @@
       <workItem from="1562403209005" duration="6141000" />
       <workItem from="1562516236275" duration="1998000" />
       <workItem from="1562696057276" duration="3613000" />
-      <workItem from="1563004095206" duration="4794000" />
+      <workItem from="1563004095206" duration="7738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39032000" />
+    <option name="totallyTimeSpent" value="41976000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1151" y="51" width="722" height="1100" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -260,9 +253,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21962096" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4165781" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.099571735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28440368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -646,14 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphql/schema.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="54" column="36" lean-forward="false" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/util/file.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -670,10 +655,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/graphql/schema.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="56" column="20" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/graphql/resolvers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state relative-caret-position="608">
+          <caret line="262" column="8" lean-forward="false" selection-start-line="262" selection-start-column="8" selection-end-line="262" selection-end-column="8" />
           <folding />
         </state>
       </provider>
